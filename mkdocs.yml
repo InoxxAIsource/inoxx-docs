@@ -1,0 +1,4 @@
+site_name: INOXX AI Documentation
+site_description: Documentation for INOXX AI
+theme: readthedocs
+repo_url: https://github.com/inoxxai/inoxx-ai
